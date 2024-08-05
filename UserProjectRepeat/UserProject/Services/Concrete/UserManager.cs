@@ -54,9 +54,9 @@ namespace UserProject.Services.Concrete
             {
                 Console.WriteLine($"Id: {item.Id} \n" +
                     $"Ad: {item.Name} \n" +
-                    $"Soyad {item.Surname}\n" +
-                    $"Email : {item.Email}\n " +
-                    $"Password {item.Password}\n");
+                    $"Soyad {item.Surname} \n" +
+                    $"Email : {item.Email} \n" +
+                    $"Password {item.Password} \n\n");
             }
         }
 
